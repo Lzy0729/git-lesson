@@ -1,0 +1,6 @@
+# TODO lIST
+
+- [] Teach the github cource
+- [] Eat lunch
+- [] Work on project
+- [] Go home
